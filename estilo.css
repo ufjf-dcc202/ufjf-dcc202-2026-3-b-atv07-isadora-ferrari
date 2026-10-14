@@ -1,0 +1,15 @@
+
+        *{
+            color:rgb(11, 11, 11);
+        }
+        code{
+            color: lime;
+            text-decoration: underline;
+            font-family: sans-serif;
+        }
+        dt > code{
+            background-color:rgb(9, 9, 9) ;
+            color: white;
+        }
+       
+    
